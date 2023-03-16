@@ -1,0 +1,44 @@
+div{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    line-height: 50px;
+    
+}
+.tacious{
+    background-color: darkorchid;
+    
+}
+.taras{
+    background-color: aqua;
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.education{
+    background-color: brown;
+    margin-left: 400px;
+}
+.hobbies{
+    background-color: maroon;
+}
+.contact{
+    background-color: coral;
+    margin-top: -200px;
+    margin-left: 800px;
+
+}
+.contact:hover{
+    background-color: blue;
+}
+.hobbies:hover{
+    background-color: aquamarine;
+}
+.education:hover{
+    background-color: chartreuse;
+}
+.taras:hover{
+    background-color: lightslategray;
+}
+.tacious:hover{
+    background-color: firebrick;
+}
